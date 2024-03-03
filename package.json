@@ -1,0 +1,16 @@
+{
+  "name": "ttd5526",
+  "version": "1.0.1",
+  "description": "Tea Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttd526/ttd5526.git"
+  },
+  "keywords": ["nothing", "simple", "testtea"],
+  "author": "Nguyen Tai Dai",
+  "license": "MIT"
+}
